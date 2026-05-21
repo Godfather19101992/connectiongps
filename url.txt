@@ -1,2 +1,2 @@
-https://9089-190-98-110-123.ngrok-free.app
+https://admin.localhost.run/
 login on
