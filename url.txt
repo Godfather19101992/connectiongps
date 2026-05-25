@@ -1,3 +1,3 @@
-https://b667cfa51793e3.lhr.life
-login on
-# Test update
+https://test.url
+login test
+1.0
